@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst passionate about helping businesses make sense of their data. With a background in accounting, I’ve developed a strong eye for detail, accuracy, and pattern qualities that now fuel my passion for data storytelling. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
@@ -24,14 +24,14 @@ When I'm not working with data, I enjoy  creating content, traveling, hiking, me
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Building a sales forecasting model in Python.  
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Content Creation:** Developing new tutorials on data visualization for my YouTube channel.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- Advanced machine learning techniques in Scikit-learn.
+- Cloud data warehousing with Google BigQuery.
 
 ## 🛠️ Technical Skillset
 
