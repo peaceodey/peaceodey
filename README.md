@@ -17,10 +17,10 @@ I'm a data analyst passionate about helping businesses make sense of their data.
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy  creating content, traveling, hiking, mentoring others, etc. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy  creating content, traveling, hiking, and mentoring others. I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Portfolio ](https://www.notion.so/Welcome-I-am-Peace-296a8e536acd8026bd9fc712b160ae7f)
       
 ## 🔭 What I'm Currently Working On 
 
